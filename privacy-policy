@@ -1,0 +1,64 @@
+# Privacy Policy for Quick Open for Google Workspace
+
+Last Updated: November 23, 2024
+
+## Introduction
+Quick Open for Google Workspace ("we," "our," or "the extension") is committed to protecting your privacy. This privacy policy explains what information we collect, how we use it, and your rights regarding your data.
+
+## Information We Collect
+The extension only collects:
+- Authentication information required to access Google Workspace services through Google's OAuth authentication system
+
+We DO NOT collect:
+- Personal information
+- Files or file contents
+- Usage statistics
+- Location data
+- Web browsing history
+- Any other personal or sensitive information
+
+## How We Use Information
+The authentication information is used solely to:
+- Enable you to open files directly in Google Workspace
+- Maintain your signed-in state with Google services
+
+## Data Storage and Security
+- Authentication tokens are stored securely in your browser using Chrome's built-in storage system
+- No data is transmitted to our servers
+- All communication is directly between your browser and Google's servers
+- Files are processed directly through Google's official APIs
+
+## Third-Party Services
+The extension interacts only with Google Workspace services to provide its core functionality. We do not:
+- Share data with third parties
+- Sell or transfer user data
+- Use data for advertising or tracking
+- Process data for purposes unrelated to the extension's core functionality
+
+## Data Retention
+- Authentication data is stored only as long as you have the extension installed
+- Uninstalling the extension removes all stored data
+- No data is retained on our end as we don't collect or store any information
+
+## Your Rights
+You have the right to:
+- Uninstall the extension at any time
+- Revoke the extension's access to your Google account through your Google Account settings
+- Request information about your data (though we don't collect any)
+
+## Changes to Privacy Policy
+If we make material changes to this privacy policy, we will:
+- Notify users through the Chrome Web Store
+- Update the "Last Updated" date at the top of this policy
+- Obtain consent where required by law
+
+## Contact
+For privacy-related questions or concerns, please contact us through the Chrome Web Store support channel.
+
+## Compliance
+This extension complies with:
+- Google's Developer Program Policies
+- Chrome Web Store Developer Agreement
+- Applicable data protection laws and regulations
+
+By using this extension, you agree to this privacy policy and the collection and use of information as described above.
